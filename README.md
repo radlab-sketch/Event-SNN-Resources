@@ -29,6 +29,18 @@ The repository utilizes a variety of datasets. Besides classic RGB datasets, eve
 
 For more information, refer to the [Tonic Documentation](https://tonic.readthedocs.io/en/latest/) and the list of available [Tonic Datasets](https://tonic.readthedocs.io/en/latest/datasets.html).
 
+## SNN Libraries
+
+- **NEST**: [NEST Website](https://www.nest-simulator.org)
+- **NEURON**: [NEURON Website](https://neuron.yale.edu/neuron)
+- **Brian**: [Brian2 GitHub](https://github.com/brian-team/brian2)
+- **Nengo**: [Nengo Website](https://www.nengo.ai/)
+- **SNNToolbox**: [SNNToolbox GitHub](https://github.com/NeuromorphicProcessorProject/SNNToolbox)
+- **BindsNET**: [BindsNET GitHub](https://github.com/BindsNET)
+- **snnTorch**: [snnTorch GitHub](https://github.com/jeshraghian/snntorch)
+- **SpikingJelly**: [SpikingJelly GitHub](https://github.com/fangwei123456/spikingjelly)
+- **NxTF**: [NxTF GitHub](https://github.com/rueckauer/NxTF)
+  
 ## How to Use This Repository
 
 1. **Clone the Repository**:
